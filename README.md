@@ -35,10 +35,10 @@ Feel free to experiment with the model architecture, hyperparameters, and prepro
 
 ## Sample Screenshots
 - Train actual data and prediction value
-![alt text](image.png)
+![alt text](./screenshots/image.png)
 
 - Test actual data and prediction value
-![alt text](image-1.png)
+![alt text](./screenshots/image-1.png)
 
 - root mean squared error and mean absolute error
-![alt text](image-2.png)
+![alt text](./screenshots/image-2.png)
