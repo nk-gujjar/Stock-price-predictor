@@ -30,4 +30,15 @@ This project is a Stock Price Predictor that utilizes Long Short-Term Memory (LS
 7. Train Data Actual vs Predicted Graph:
 8. Test Data RMSE and MAE Screenshot:
 
-##
+## Customizing the Model
+Feel free to experiment with the model architecture, hyperparameters, and preprocessing steps to improve accuracy. You can adjust the number of LSTM units, add more layers, change the learning rate, or explore different preprocessing techniques.
+
+## Sample Screenshots
+- Train actual data and prediction value
+![alt text](image.png)
+
+- Test actual data and prediction value
+![alt text](image-1.png)
+
+- root mean squared error and mean absolute error
+![alt text](image-2.png)
