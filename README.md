@@ -34,10 +34,10 @@ This project is a Stock Price Predictor that utilizes Long Short-Term Memory (LS
 Feel free to experiment with the model architecture, hyperparameters, and preprocessing steps to improve accuracy. You can adjust the number of LSTM units, add more layers, change the learning rate, or explore different preprocessing techniques.
 
 ## Sample Screenshots
-- Train actual data and prediction value
+- Trained actual values and prediction values
 ![alt text](./screenshots/image.png)
 
-- Test actual data and prediction value
+- Test actual values and prediction values
 ![alt text](./screenshots/image-1.png)
 
 - root mean squared error and mean absolute error
